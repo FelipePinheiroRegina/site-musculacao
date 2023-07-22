@@ -1,4 +1,4 @@
-# site-musculacao
-Site que eu Criei para praticar
+# Site de musculação
+Meu primeiro site, bem básico, práticando os conceitos que eu aprendi no Curso de HTML e CSS, ministrado pelo professor Gustavo Guanabara, do canal CursoemVideo no YouTube.
 
-<a href="https://felipepinheiroregina.github.io/site-musculacao/index.html.html">Execute o Site</a>
+- [Acesse]()
